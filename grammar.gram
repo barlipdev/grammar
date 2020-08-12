@@ -1,5 +1,3 @@
 
-#JSGF V1.0;
-
 grammar grammar;
 public <other> = ( DWA DZIEś CIA DWA | U RU CHO MIć | PRO JEKT | ROZ MO WY | APLI KA CJE | KON TO | MO BIL NE | WIA DO MOść | STAN | GE NE RU JE | KO RZY STA | TRANS MI SJA | DA NYCH | IN TER NET | WA RUN KI) *;
