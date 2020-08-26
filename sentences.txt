@@ -1,0 +1,15957 @@
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ DO   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ BRZE   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ ZA   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ RAZ   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ ZWE   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ RY   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ FI   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ KU   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ JE   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ MY   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ PRO   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ SZę   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ PA   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ NI   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ MIę   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ ZWI   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ SKO   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ HA   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ SłO   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ OB   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ SłU   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ GI   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ KLIEN   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ TA   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ RO   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ ZU   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ MIEM   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ WłA   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ śCI   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ CIEL   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ Ką   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ PE   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ SEL   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ AD   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ RES   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TU   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ TAJ   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ ZGA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ DZA   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ TE   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ GO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ MO   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ BIL   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ NE   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ BY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ łY   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ LI   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ PCA   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ WIę   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ KSZ   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ Ość   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ CHO   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ DZI   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ Gę   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ DZIEC   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ KO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ SO   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ BIE   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ KLIK   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ NIE   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ WNUCZ   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ CE   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ MUś   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ LE   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ FON   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ U   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ KNąć   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ JEż   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ ELI   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ STęP   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ łA   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ BIł   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ WTó   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ RZY   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ WYż   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ SZA   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SZAN   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ SA   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ DRO   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ Gą   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ MAIL   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ OWą   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ PłAT   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ NOś   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ CI   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ DOB   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ RZE   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ NU   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ MER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ SIER   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ PNIA   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ WIęK   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ SZOść   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ DłU   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ żEJ   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ RE   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ SZTA   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ DRU   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ GA   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ KWE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ STIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ NY   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ OP   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ łAT   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ WSZYS   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ TKIE   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ IN   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ TER   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ NET   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ WA   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ Wę   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ JED   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ NYM   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ BAR   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ DZIEJ   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ ZOS   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ TAł   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ JESZ   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ CZE   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ LEJ   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ Złą   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ CZASZ   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SłY   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ SZE   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ DRES   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ PAń   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ STWO   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ DU   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ ET   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ ZGOD   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ NOść   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ SZYB   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CIEJ   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ ZBę   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ DNE   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ DZWO   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIł   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ SZCZE   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ MEL   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ NIA   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ WE   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ KA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJA   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ CJI   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ PRA   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ WI   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ DłO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ WO   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ ZDą   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ żę   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ WIE   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ DZę   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ PY   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ ZRO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ BIO   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ PóW   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KIEś   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ śNIE   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KłAD   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ KIś   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ SPO   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ ROZ   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ WIą   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ ZY   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ WAł   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ STU   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ łO   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ PRZE   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ żYć   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ BLO   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ Dę   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ OD   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ WIA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ DA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ żA   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ DNYCH   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ MEN   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ CIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ KIE   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DY   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ DZIE   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ CKU   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ WDA   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ SZłO   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KRóT   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ KIEJ   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ SY   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ ACJI   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ CZEń   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ STY   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ Póż   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ NIEJ   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ RUN   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ KI   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ Mó   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ STE   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ MENT   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ ACJA   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ EWEN   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ AL   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ PRZYJ   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ FAK   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ RA   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ PIEJ   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Bę   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ Dą   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WYS   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ WIO   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ MOż   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ KAR   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ Tę   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ STA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ PłA   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ CIć   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ NAJ   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ MA   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ PI   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ SU   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ Ją   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ TAR   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ WEJ   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ Kąś   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ śWIA   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ MIE   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ CIą   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ GU   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ KON   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ WAć   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ KOś   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ REK   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ LA   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ CJę   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ ZłO   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ śLE   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ ZWA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ WSKA   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ WSZYST   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ APLI   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ CJE   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śMY   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ śRE   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KIEM   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ KLI   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ ENT   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ NAZ   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ KłA   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ DNIE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ GE   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RU   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ RAL   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ DEN   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ KOń   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ CóW   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ KWIET   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ ZO   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ łE   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ ME   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ RóW   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ NIEż   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ TYL   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ WRZE   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIEń   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SIąC   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ SKOń   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ CZYł   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ GRU   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ DAT   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ WYCH   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ KTó   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ Rą   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ CA   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ łą   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ CZę   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ śCIE   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ WRA   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ żLI   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ WOść   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ CZYć   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ DZIA   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ łU   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ ZAJ   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ MU   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ FER   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ CIę   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ żKO   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ MNę   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ NEJ   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ WER   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ SJI   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ DZIEć   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ MAć   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ PIERW   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ SZEJ   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ MOść   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ AK   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ STRO   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ MIć   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ JEKT   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ BLEM   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ KIET   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ TRANS   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ SJA   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ NYCH   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ PRE   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ MIUM   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ DZą   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ SPRA   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GłóW   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ GIM   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ SUL   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TAN   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ TEM   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ ZEN   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TóW   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ TAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ CZAć   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ TRA   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ DAł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ SIł   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ DAL   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ żAł   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SI   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SZłą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ SIą   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ CU   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ żNA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ BRA   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ Nął   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ CY   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ SIAJ   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ DNAK   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ żY   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ ZGO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ DNO   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ EN   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ NIę   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ WNIO   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SEK   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ SIUL   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ TWO   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ PEł   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ Jąć   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ KRO   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ TWI   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ SE   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ BA   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ śCIą   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ SWO   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ WAń   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ DEJ   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ WAM   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ GOś   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ Pę   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ NEM   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ LO   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ NAć   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ SYS   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ DZIN   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ Ję   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WTE   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ WAR   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ STWA   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ WłAś   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ JąC   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ DWO   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ SZą   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ TWIć   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ BLE   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ SPRAW   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ GNIę   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ KRA   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ żO   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ LEM   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ FIR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ GóR   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ DZIć   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ ZAZ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ CZAJ   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ NACH   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ CIU   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ RZą   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ DKU   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ SZKO   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ CZTE   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ SIEM   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ WIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ SIęć   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ DE   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ CZTER   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ WIęT   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ DZIEś   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ CIA   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ PIEć   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIąT   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ SIE   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ DEM   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ DO BRZE   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ ZA RAZ   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ TO   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ ZWE RY FI KU JE MY   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ JA   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PO PRO SZę   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ PA NI   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I MIę   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ I   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ NA ZWI SKO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ HA SłO   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ OB SłU GI   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ KLIEN TA   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ RO ZU MIEM   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ ALE   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ Z   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ WłA śCI CIEL Ką   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ PE SEL   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ ORAZ   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ AD RES   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ ANIA   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ TU TAJ   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ SIę   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ ZGA DZA   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ TE GO   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ MO BIL NE   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ BY łY   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ LI PCA   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ JEST   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ WIę KSZ Ość   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ PRZY   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ GRZE   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ CHO DZI   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ O   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GRA   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ GDZIE   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ TAM   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ Są   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ TY   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ żE   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ BYć   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ TAK   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ DZIEC KO   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ SO BIE   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ WY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ CZY   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ KUP   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ ONA   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ KLIK NIE   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ ON   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ WIęC   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ BYM   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ DLA   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ WNUCZ CE   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ KO MUś   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TEN   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ TE LE FON   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ U NI KNąć   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ BO   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JUż   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ JEż ELI   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ U DO STęP NI łA   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ KTOś   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NA RO BIł   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ NIą   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ JAK   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ PO WTó RZY   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ FAKT   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ WYż SZA   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ TWóJ   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRę   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ GRY   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ COś   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ PRZEZ   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ Ną   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ GRą   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ SZAN SA   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ WIEM   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ DRO Gą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ MAIL OWą   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ SKLEP   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PLAY   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAT NOś CI   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ PłAć   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ CZYM   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ MóC   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ DOB RZE   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ SIER PNIA   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ WIęK SZOść   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ DłU żEJ   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ RE SZTA   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ PAN   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ STAł   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ SPA   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ CHCIAł   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ OCZY   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ TEJ   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ SMS   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ DRU GA   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ KWE STIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ DWIE   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ O CE NY   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ TYM   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ DAć   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ JEJ   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ ALE    
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ NA   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ WSZYS TKIE   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ U MO Wę   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ DOJść   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ JED NYM   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ BAR DZIEJ   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ CZAS   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ ZOS TAł   
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ JESZ CZE    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ TAK    
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ DO LEJ   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ MIAST   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ BANK   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ POD   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ SAł   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ Złą CZASZ   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ DNIA   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ U SłY SZE   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ BRAK   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ A DRES   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ICH   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ ORANGE   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PAń STWO   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ PRZED   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ DU ET   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ BąDź   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ U DAć   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ BYś   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ ZGOD NOść   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ SZYB CIEJ   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ CZA   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ OBY   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ X   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ Y   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ RóG   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ KAM   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ ZBę DNE   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ GDY   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ DZWO NIł   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ NIC   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ SZCZE RZE   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ PA MIę TA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ ZA MEL DO WA NIA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ WE RY FI KA CJI   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ PRA WI DłO WO   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ ZDą żę   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ NO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ CO   
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ WIE DZę    
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZA KU PY   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZRO BIO NE   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ ZA KU PóW   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ JA KIEś   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ KLEJ   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ WłA śNIE   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ PRZY KłAD   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ JA KIś   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ OP łAT   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ SPO WO DU JE   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ A   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ PO PRO STU   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ BY łO   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ PRZE DłU żYć   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ BLO KA Dę   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ W   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ MO MEN CIE   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ KIE DY   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ DZIE CKU   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRA WDA   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ PRZY SZłO   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ SY TU ACJI   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ TYCH   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ NA LI CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ STY CZEń   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ ZRO BIł   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ Mó WIę   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ NIE STE TY   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO Gę   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ MO MENT   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ Tą   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ SY TU ACJA   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ EWEN TU AL NIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ PRZYJ DZIE   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ FAK TU RA   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ LE PIEJ   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ WYS TA WIO NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ MOż NA   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ ROZ WIą ZY WAł   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KAR Tę   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ ZA PłA CIć   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ MA MY   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ PRZE PI SU Ją   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ OD PO WIA DA   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WYS TAR CZY   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ WEJ Dę   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ JA Kąś   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ NIE śWIA DO MIE   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ CIą GU   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ KON TO   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ SPO WO DO WAć   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ JA KOś   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ REK LA MA CJę   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ ZłO żYć   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ NICH   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ WY śLE   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ MI   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ NA ZWA   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ WSKA ZU JE   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ NASZ   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ WSZYST KIE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ APLI KA CJE   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ JE STE śMY   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ śRE DNI KIEM   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ DNI   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ KLI ENT   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ WE RY FI KA CJA   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ NAZ WI SKO   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ DO KłA DNIE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ GE NE RAL NIE   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ U MO WA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KOń CóW KA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ KWIET NIA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ ZO STA łA   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ PO ZO STA łE   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ NU ME RY   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ TYL KO   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ RO DZI NY   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ WRZE SIEń   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ MIE SIąC   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ SKOń CZYł   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ GRU DNIA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ KTó Rą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ CA łą   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ TEż   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ O CZY WI śCIE   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ MO żLI WOść   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ łą CZYć   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ DZIA łU   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ ZAJ MU JE   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ O FER TA   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ CIę żKO   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ A BYM   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ PRZE DłU żE NIA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ KO RZY STA   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ GE NE RU JE   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ PRZY PO MNę   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ STAN   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ MO BIL NEJ   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WER SJI   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ WY PO WIE DZIEć   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ ROZ MO WY   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ O TRZY MAć   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ PIERW SZEJ   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ WIA DO MOść   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ ROZ WIą ZA NIA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ KAR TA   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ AK TY WA CJA    
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA Mó WIE NIE   
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ ZA RE JE STRO WAć    
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ NU MER   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ RE AK TY WA CJA   
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ STAN    
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ IN TER NE TU   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ RA TY   
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ U RU CHO MIć    
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO JEKT   
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PRO BLEM    
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ PA KIET IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ IN TER NET   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ TRANS MI SJA  DA NYCH   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ PO łą CZE NIA SMS   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ SMS PRE MIUM   
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ PO łą CZE NIE    
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ WY CHO DZą CE   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ SPRA WY   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ GłóW Ną   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ DRU GIM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ KON SUL TAN TEM   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ Bę Dą   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ KRóT KIEJ   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PA MIę TAć   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ PRZE łą CZę   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ NIE ROZ łą CZAć   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ KO RZY STA NIE   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ żA DNYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ DO DAT KO WYCH   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ PI SA NIE   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ U TRA CI   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ NAJ LE PIEJ   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ PO WIE DZIEć   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ WY PO WIA DAł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ PRZE NO SIł   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ NA DAL   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ PRZE DłU żAł   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ MU SI   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ DO STAł   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ O PłAT   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ PRZY SZłą   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MIE SIą CU   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ MO żNA   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY PO WIA DAć   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ WY BRA NY   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MI Nął   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ MIE SIę CY   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ DZI SIAJ   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ JE DNAK   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ WA RUN KI   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ żY CZę   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ ZGO DNO śCI   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ KLI EN TA   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ ZA MIE NIę   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ WNIO SEK   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ PRZE NIE SIE NIE   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ A SIUL KA   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ O TWO RZY   
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ U    
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ NAS   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ WY PEł NIA łA   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ RóW NIEż   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ ZA Jąć   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ KRO KI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ ZA łA TWI   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SPRA Wę   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ SE SJI   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ JA KU BA   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZE   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ ZGO DNO śCIą   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ SWO ICH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ DA NYCH   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ ZA WI RO WAń   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ PO DEJ RZE WAM   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ JA KIE GOś   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ GRU Pę   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ PA NEM   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ SA LO NU   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ DO KO NAć   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ SYS TE MIE   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ GO DZIN   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU JE MY   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ O CZE KU Ję   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WTE DY   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WAR STWA   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ WłAś CI WO śCI   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ PRZE KA ZU JąC   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ DWO MA   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ MU SZą   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ ZA łA TWIć   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ Póż NIEJ   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ PRO BLE MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ SPRAW DZI MY   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ śCIą GNIę TA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ KRA DZIE żO WA   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ WłA śCI CIE LEM   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ FIR MA   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ GóR NY   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ CZE KAM   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ RE PRE ZEN TAN TóW   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ PRO WA DZIć   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ WRA żLI WA   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ ZAZ WY CZAJ   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ SA LO NACH   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ O SIą GNIę CIU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU   
+ PO RZą DKU    
+ PO RZą DKU   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ SZKO DZI   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ ZE RO   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ JE DEN   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ DWA   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ TRZY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ CZTE RY   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ PIęć   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SZEść   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ SIE DEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ O SIEM   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE WIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ DZIE SIęć   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ JE DE NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ DWA NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ TRZY NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ CZTER NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ O SIEM NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DZIE WIęT NA śCIE   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA JE DEN   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA DWA   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA TRZY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA CZTE RY   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA PIęć   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SZEść   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA SIE DEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA O SIEM   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ DWA DZIEś CIA DZIE WIęć   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI JE DEN   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI DWA   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI TRZY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI CZTE RY   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI PIęć   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SZEść   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI SIE DEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI O SIEM   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ TRZY DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI JE DEN   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI DWA   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI TRZY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI CZTE RY   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI PIEć   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SZEść   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI SIE DEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI O SIEM   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ CZTER DZIEś CI DZIE WIęć   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT JE DEN   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT DWA   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT TRZY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT CZTE RY   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT PIęć   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SZEść   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT SIE DEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT O SIEM   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ PIęć DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT JE DEN   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT DWA   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT TRZY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT CZTE RY   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT PIęć   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SZEść   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT SIE DEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT O SIEM   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SZEść DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT JE DEN   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT DWA   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT TRZY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT CZTE RY   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT PIęć   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SZEść   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT SIE DEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT O SIEM   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ SIE DEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT JE DEN   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT DWA   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT TRZY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT CZTE RY   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT PIęć   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SZEść   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT SIE DEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT O SIEM   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ O SIEM DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT JE DEN   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT DWA   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT TRZY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT CZTE RY   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT PIęć   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SZEść   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT SIEDEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT O SIEM   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ DZIE WIęć DZIE SIąT DZIE WIęć   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
+ STO   
